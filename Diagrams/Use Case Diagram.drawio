@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T13:23:25.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="dIvxz77d2d-stBvrWcOE" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T13:32:49.067Z" agent="5.0 (Windows)" etag="_bVqEWAQR7mh1raIR1DZ" version="14.4.3" type="github">
   <diagram id="o-PoSIHYnbQtjXGlu8P7" name="Page-1">
-    <mxGraphModel dx="1186" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,38 +43,41 @@
         <mxCell id="tbk8aGchaPdW1EQHRRRS-34" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Rotate piece&lt;/b&gt;&lt;br&gt;Rotate a piece 90º&lt;br&gt;1: Clockwise&lt;br&gt;2: Anti clockwise&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="640" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-11" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="560" width="760" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry width="760" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="20" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-3" value="Main menu diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-3" value="Main menu diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="70" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FF9999;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FF9999;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="130" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-5" value="Game options diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-5" value="Game options diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="180" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFFFCC;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFFFCC;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="240" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-7" value="Settings diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-7" value="Settings diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="290" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="350" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-10" value="In-game diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tgSNxzn0pLUJQDwQrDUK-11">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-10" value="In-game diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tgSNxzn0pLUJQDwQrDUK-11" vertex="1">
           <mxGeometry x="400" y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tgSNxzn0pLUJQDwQrDUK-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Exit to main menu&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Returns user to main menu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Exit to main menu&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Returns user to main menu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rt1nEuUYQW01Z7rHzFn-1" value="&lt;div&gt;&lt;b&gt;Select&lt;/b&gt;&lt;/div&gt;&lt;div&gt;User chooses a piece&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
