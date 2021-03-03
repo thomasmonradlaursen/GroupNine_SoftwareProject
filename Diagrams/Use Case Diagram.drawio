@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T14:06:28.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="SCOPd5I5G5SM4IdxxmGM" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T14:46:54.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="7l-ta7_5hqkiNEFvkgLQ" version="14.4.3" type="github">
   <diagram id="o-PoSIHYnbQtjXGlu8P7" name="Page-1">
     <mxGraphModel dx="1186" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="tbk8aGchaPdW1EQHRRRS-23" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Load game&lt;/b&gt;&lt;br&gt;Load a game from a database (choose a name / picture)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#CCFFFF;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tbk8aGchaPdW1EQHRRRS-25" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Choose image&lt;/b&gt;&lt;br&gt;Upload an image and superimpose onto the puzzle&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+        <mxCell id="tbk8aGchaPdW1EQHRRRS-25" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Choose image&lt;/b&gt;&lt;br&gt;Upload an image and superimpose onto the puzzle&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="640" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tbk8aGchaPdW1EQHRRRS-28" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Undo / Redo&lt;/b&gt;&lt;br&gt;Undo / Redo a move&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
