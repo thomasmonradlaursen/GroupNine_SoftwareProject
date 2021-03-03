@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T14:05:19.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="SioOyFbADvAB5FyVts9y" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T14:06:28.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="SCOPd5I5G5SM4IdxxmGM" version="14.4.3" type="github">
   <diagram id="o-PoSIHYnbQtjXGlu8P7" name="Page-1">
     <mxGraphModel dx="1186" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,11 @@
         <mxCell id="tgSNxzn0pLUJQDwQrDUK-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Exit to main menu&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Returns user to main menu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9rt1nEuUYQW01Z7rHzFn-1" value="&lt;div&gt;&lt;b&gt;Select&lt;/b&gt;&lt;/div&gt;&lt;div&gt;User chooses a piece&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="9rt1nEuUYQW01Z7rHzFn-1" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Select&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;User chooses a piece&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tgSNxzn0pLUJQDwQrDUK-17" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Help&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Get a hint or auto-solve&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
